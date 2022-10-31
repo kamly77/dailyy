@@ -1,0 +1,7 @@
+C:\Users\chern\source\repos\Daily\Daily\bin\Debug\Daily.exe.config
+C:\Users\chern\source\repos\Daily\Daily\bin\Debug\Daily.exe
+C:\Users\chern\source\repos\Daily\Daily\bin\Debug\Daily.pdb
+C:\Users\chern\source\repos\Daily\Daily\obj\Debug\Daily.csprojAssemblyReference.cache
+C:\Users\chern\source\repos\Daily\Daily\obj\Debug\Daily.csproj.CoreCompileInputs.cache
+C:\Users\chern\source\repos\Daily\Daily\obj\Debug\Daily.exe
+C:\Users\chern\source\repos\Daily\Daily\obj\Debug\Daily.pdb
